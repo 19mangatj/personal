@@ -15,3 +15,13 @@ This fall, I will be working with a small group of undergraduates in another NSF
 From Summer 2019 to May 2020, I was a part of the development team of a small company that helps implement technologies to help corporations report oil/chemical spills and/or cyber-attacks. I helped implement the front-end of user sign-up forms and created a component that helps automatically fill out letters and forms, saving workers hours of tedious tasks. Later, I also helped implement a searchable table which helped display information from the company's database. [Github](https://github.com/19mangatj/Spill-Center-Internship-2019)
 ### Software Engineer at BUILD UMass
 BUILD UMass helps local companies in the Amherst area with their tech need whether it's through building apps or designing databases through student volunteers. Last spring, I worked on an internal project to help create a web auth system for our organization's web application. 
+
+## Hackathon Projects
+### OpenWhen @ Boston Hacks 2019
+OpenWhen allows users to send notes to their friends that they can "open when..." they feel sad, happy, etc.
+[Github](https://github.com/jrosen081/OpenWhen)
+### Reflec @ HackHer413 2020
+Reflec allows people to send live feedback to a speaker or lecturer through a given set up buttons. The speaker then gets a transpript of their talk with indications for where listeners might have been confused or when they liked a point the speaker brought up to allow them to improve their talk for the next time.
+[Github](https://github.com/imanarzi/reflec)
+
+
