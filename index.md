@@ -2,7 +2,7 @@
 
 I'm currently an undergraduate at the College of Information and Computer Sciences at the University of Massachusetts Amherst studying CS, Economics, and Math. Please keep scrolling to learn more about my experience!
 
-[LinkedIn](https://www.linkedin.com/in/jasmine-mangat-5b03b1168/)|[Resume]()
+[LinkedIn](https://www.linkedin.com/in/jasmine-mangat-5b03b1168/)//[Resume](https://drive.google.com/file/d/1I6--ijxTDX_tWn07jcy6nKBYOrHxPswV/view?usp=sharing)
 
 ## Experience
 ### Research Assistant at Carnegie Mellon Unviersity
